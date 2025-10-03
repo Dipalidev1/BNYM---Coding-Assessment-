@@ -1,0 +1,4 @@
+[
+  {"accountNumber":"1234567890123456","securityId":"abc-123","tradeType":"Buy","quantity":100,"tradeDate":"2025-10-01"},
+  {"accountNumber":"987654321","securityId":"XYZ987","tradeType":"Sell","quantity":50,"tradeDate":"2025-10-02"}
+]
